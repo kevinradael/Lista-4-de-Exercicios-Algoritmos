@@ -12,11 +12,5 @@ programa {
         escreva ("O Numero esta INVALIDO !!!")
 
       }
-
-
-
-
-
-
   }
 }
