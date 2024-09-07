@@ -7,10 +7,10 @@ programa {
   escreva ("Digite Suas 2 Notas: \n")
   leia (n1,n2)
   
-  escreva ("Escreva sua Carga Horaria (número de aulas): \n")
+  escreva ("Escreva sua Carga Horaria (nÃºmero de aulas): \n")
   leia (ch)
 
-  escreva ("Escreva a quantidade de Presenças (número de aulas): \n")
+  escreva ("Escreva a quantidade de PresenÃ§as (nÃºmero de aulas): \n")
   leia (p)
   
   media = ( n1 + n2 )/2
@@ -25,7 +25,5 @@ programa {
         {
             escreva ("Aluno REPROVADO! \n")
         }
-
-  
   }
 }
